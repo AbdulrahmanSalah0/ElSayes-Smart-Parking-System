@@ -23,11 +23,6 @@ Parking management is a challenge in crowded cities. Manual ticketing systems wa
 
 ---
 
-## 🖼️ System Architecture
-![Architecture Diagram](Activity Diagram.docx)  
-
----
-
 ## ⚙️ Tech Stack
 - **AI/ML**: YOLOv8, OpenCV, OCR (Tesseract)  
 - **IoT**: ESP32, IR Sensors, Servo Motors, LEDs  
