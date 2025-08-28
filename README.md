@@ -24,7 +24,7 @@ Parking management is a challenge in crowded cities. Manual ticketing systems wa
 ---
 
 ## 🖼️ System Architecture
-![Architecture Diagram](media/architecture.png)  
+![Architecture Diagram](ActivityDiagram.docx)  
 
 ---
 
