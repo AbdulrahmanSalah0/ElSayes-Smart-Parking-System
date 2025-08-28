@@ -46,8 +46,3 @@ Parking management is a challenge in crowded cities. Manual ticketing systems wa
 
 ---
 
-## 🚀 How to Run
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/YourUsername/Smart-Parking-System-AI-IoT.git
-cd Smart-Parking-System-AI-IoT
